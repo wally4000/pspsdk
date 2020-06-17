@@ -1,0 +1,34 @@
+<map id="debug/gdb&#45;userlib.c" name="debug/gdb&#45;userlib.c">
+<area shape="rect" id="node1" title=" " alt="" coords="1087,5,1222,32"/>
+<area shape="rect" id="node2" href="$pspkernel_8h.html" title=" " alt="" coords="1111,80,1199,107"/>
+<area shape="rect" id="node16" href="$pspdebug_8h.html" title=" " alt="" coords="200,304,288,331"/>
+<area shape="rect" id="node29" href="$string_8h.html" title=" " alt="" coords="1729,80,1793,107"/>
+<area shape="rect" id="node3" href="$pspuser_8h.html" title=" " alt="" coords="625,155,703,181"/>
+<area shape="rect" id="node22" href="$pspiofilemgr__kernel_8h.html" title=" " alt="" coords="1367,155,1510,181"/>
+<area shape="rect" id="node23" href="$psploadcore_8h.html" title=" " alt="" coords="1265,379,1367,405"/>
+<area shape="rect" id="node24" href="$pspstdio__kernel_8h.html" title=" " alt="" coords="1535,155,1657,181"/>
+<area shape="rect" id="node25" href="$pspsysreg_8h.html" title=" " alt="" coords="979,379,1069,405"/>
+<area shape="rect" id="node26" href="$pspkdebug_8h.html" title=" " alt="" coords="1094,379,1189,405"/>
+<area shape="rect" id="node27" href="$pspintrman__kernel_8h.html" title=" " alt="" coords="1153,304,1292,331"/>
+<area shape="rect" id="node28" href="$pspmodulemgr__kernel_8h.html" title=" " alt="" coords="869,155,1027,181"/>
+<area shape="rect" id="node4" href="$psptypes_8h.html" title=" " alt="" coords="662,528,746,555"/>
+<area shape="rect" id="node6" href="$pspkerneltypes_8h.html" title=" " alt="" coords="923,453,1042,480"/>
+<area shape="rect" id="node7" href="$pspiofilemgr_8h.html" title=" " alt="" coords="1497,229,1599,256"/>
+<area shape="rect" id="node11" href="$psploadexec_8h.html" title=" " alt="" coords="411,229,515,256"/>
+<area shape="rect" id="node12" href="$pspmoduleinfo_8h.html" title=" " alt="" coords="274,379,390,405"/>
+<area shape="rect" id="node13" href="$pspmodulemgr_8h.html" title=" " alt="" coords="853,229,971,256"/>
+<area shape="rect" id="node14" href="$pspsysmem_8h.html" title=" " alt="" coords="625,304,727,331"/>
+<area shape="rect" id="node15" href="$pspthreadman_8h.html" title=" " alt="" coords="272,229,387,256"/>
+<area shape="rect" id="node17" href="$psputils_8h.html" title=" " alt="" coords="69,229,147,256"/>
+<area shape="rect" id="node19" href="$pspkerror_8h.html" title=" " alt="" coords="539,229,626,256"/>
+<area shape="rect" id="node20" href="$pspstdio_8h.html" title=" " alt="" coords="721,379,802,405"/>
+<area shape="rect" id="node21" href="$pspintrman_8h.html" title=" " alt="" coords="803,304,899,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="672,603,736,629"/>
+<area shape="rect" id="node8" href="$pspiofilemgr__fcntl_8h.html" title=" " alt="" coords="1481,304,1615,331"/>
+<area shape="rect" id="node9" href="$pspiofilemgr__stat_8h.html" title=" " alt="" coords="1535,379,1665,405"/>
+<area shape="rect" id="node10" href="$pspiofilemgr__dirent_8h.html" title=" " alt="" coords="1690,304,1830,331"/>
+<area shape="rect" id="node18" title=" " alt="" coords="94,304,175,331"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1682,155,1750,181"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1774,155,1842,181"/>
+<area shape="rect" id="node32" href="$ctype_8h.html" title=" " alt="" coords="1866,155,1929,181"/>
+</map>
